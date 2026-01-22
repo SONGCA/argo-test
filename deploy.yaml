@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: hello-world
-          image: songcj1/k8s:33
+          image: songcj1/k8s:34
           ports:
             - containerPort: 8080
